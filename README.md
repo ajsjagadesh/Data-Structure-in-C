@@ -1,2 +1,2 @@
-# Stack-s-in-C-
-Creating Stack's in c using Linked list
+# Data-Structures-in-C
+Developing Data Structure algorithms using C language
