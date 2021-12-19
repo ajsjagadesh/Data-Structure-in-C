@@ -1,10 +1,13 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-void red () {
+void red () 
+{
   printf("\033[1;31m");
 }
-void rs(){                                                                       printf("\033[0m");
+void rs()
+{
+	printf("\033[0m");
 }
 
 struct node
