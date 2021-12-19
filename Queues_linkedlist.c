@@ -7,7 +7,7 @@ void red ()
 }
 void rs()
 {
-	printf("\033[0m");
+  printf("\033[0m");
 }
 
 struct node
